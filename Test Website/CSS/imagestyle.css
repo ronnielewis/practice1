@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Create two equal columns that sit next to each other */
+.column {
+  flex: 33%;
+  padding: 10px;
+  padding-left: 35px;
+}
+
+.column img {
+  max-height: 100%;
+  max-width: 400px;
+  padding: 25px;
+  border: solid 5px rgb(27, 141, 145);
+}
+
+.zoom {
+  overflow: hidden;
+  transition: transform 0.1s;
+}
+
+div.zoom:hover {
+  transform: scale(1.2);
+}
+
+div.active img:hover {
+  border: 5px solid rgba(27, 117, 24, 0.842);
+  background-color: rgba(51, 222, 45, 0.842);
+}
