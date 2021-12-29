@@ -17,7 +17,7 @@ body {
   float: left;
   width: 200px;
   height: 200px;
-  background: center / contain no-repeat url("images/Mario.PNG");
+  background: center / contain no-repeat url("./images/Mario.png");
   margin: 20px;
 }
 
