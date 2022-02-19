@@ -26,7 +26,7 @@
   transition: transform 1s;
 }
 
-div.zoom:hover {
+.zoom:hover {
   transform: scale(1.2);
 }
 
