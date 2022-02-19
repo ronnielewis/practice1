@@ -1,6 +1,6 @@
 body {
   background-color: rgb(184, 92, 26);
-  background-image: url(/images/bag-background.png);
+  background-image: url(images/bag-background.png);
 }
 
 .centerContent {
@@ -18,12 +18,12 @@ body {
   float: left;
   width: 200px;
   height: 200px;
-  background: center / contain no-repeat url("/images/Mario.png");
+  background: center / contain no-repeat url("images/Mario.png");
   margin: 20px;
 }
 
 .marioSwap:hover {
-  background: center / contain no-repeat url("/images/Luigi.png");
+  background: center / contain no-repeat url("images/Luigi.png");
 }
 
 .toadSwap {
@@ -31,23 +31,23 @@ body {
   float: left;
   width: 200px;
   height: 200px;
-  background: center / contain no-repeat url("/images/Toad.png");
+  background: center / contain no-repeat url("images/Toad.png");
   margin: 20px;
 }
 .toadSwap:hover {
-  background: center / contain no-repeat url("/images/Luigi.png");
+  background: center / contain no-repeat url("images/Luigi.png");
 }
 
 .yoshiSwap {
   float: left;
   width: 200px;
   height: 200px;
-  background: center / contain no-repeat url("/images/Yoshi.png");
+  background: center / contain no-repeat url("images/Yoshi.png");
   margin: 20px;
 }
 
 .yoshiSwap:hover {
-  background: center / contain no-repeat url("/images/Luigi.png");
+  background: center / contain no-repeat url("images/Luigi.png");
 }
 
 .postContent {
