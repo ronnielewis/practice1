@@ -1,6 +1,6 @@
 body {
   background-color: rgb(184, 92, 26);
-  background-image: URL(../images/bag-background.png);
+  background: URL(../images/bag-background.png);
 }
 
 .centerContent {
