@@ -1,6 +1,6 @@
 body {
   background-color: rgb(184, 92, 26);
-  background-image: url(https://github.com/ronnielewis/practice1/blob/adding-images/bag-background.png?raw=true);
+  background-image: url(..images/bag-background.png);
 }
 
 .centerContent {
